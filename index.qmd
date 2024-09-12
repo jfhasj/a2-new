@@ -1,0 +1,6 @@
+---
+title: "Welcome"
+---
+
+Hi, I'm Sean Chua. I'm a 3rd year Statistics Specialist student
+
